@@ -1,4 +1,8 @@
 ---
+widget: experience
+widget_id: experience
+weight: 40
+---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -56,5 +60,3 @@ experience:
     location: Santa Cruz, CA
     date_start: '2012-05-01'
     date_end: '2014-08-01'
-    
----
