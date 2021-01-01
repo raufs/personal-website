@@ -28,13 +28,15 @@ experience:
     location: Madison, WI
     date_start: '2020-12-01'
     date_end: ''
-        
+    description: 
+    
   - title: Associate Computational Biologist
     company: Earl Bacterial Genomics Group, The Broad Institute of MIT & Harvard
     company_url: 'https://www.broadinstitute.org/infectious-disease-and-microbiome/bacterial-genomics'
     location: Cambridge, MA
     date_start: '2017-08-01'
     date_end: '2020-08-01'
+    description: 
     
    - title: Bioinformatics Specialist
     company: Functional Genomics and Data Science, Biologics R&D, Bayer CropScience
@@ -42,6 +44,7 @@ experience:
     location: West Sacramento, CA
     date_start: '2014-12-01'
     date_end: '2017-07-01'
+    description:
     
    - title: Software Engineer / Bioinformatics Research Assistant
     company: Arkin Lab, UC Berkeley / Lawrence Berkeley National Labs
@@ -49,6 +52,7 @@ experience:
     location: Berkeley, CA
     date_start: '2014-11-01'
     date_end: '2016-04-01'
+    description: 
     
    - title: Undergraduate Researcher
     company: Paleogenomics Lab, UC Santa Cruz
@@ -56,4 +60,5 @@ experience:
     location: Santa Cruz, CA
     date_start: '2012-05-01'
     date_end: '2014-08-01'
- ---
+    description: 
+---
