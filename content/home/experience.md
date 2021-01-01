@@ -38,7 +38,7 @@ experience:
     date_end: '2020-08-01'
     description: 
     
-   - title: Bioinformatics Specialist
+  - title: Bioinformatics Specialist
     company: Functional Genomics and Data Science, Biologics R&D, Bayer CropScience
     company_url: 'https://www.bayer.com/en/crop-science/crop-science-innovations-agricultural-biologicals'
     location: West Sacramento, CA
@@ -46,7 +46,7 @@ experience:
     date_end: '2017-07-01'
     description:
     
-   - title: Software Engineer / Bioinformatics Research Assistant
+  - title: Software Engineer / Bioinformatics Research Assistant
     company: Arkin Lab, UC Berkeley / Lawrence Berkeley National Labs
     company_url: 'http://genomics.lbl.gov/'
     location: Berkeley, CA
@@ -54,7 +54,7 @@ experience:
     date_end: '2016-04-01'
     description: 
     
-   - title: Undergraduate Researcher
+  - title: Undergraduate Researcher
     company: Paleogenomics Lab, UC Santa Cruz
     company_url: 'https://pgl.soe.ucsc.edu/'
     location: Santa Cruz, CA
