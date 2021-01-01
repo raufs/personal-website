@@ -26,35 +26,35 @@ experience:
     company: Kalan Lab, UW Madison 
     company_url: 'https://kalanlab.mmi.wisc.edu/'
     location: Madison, WI
-    date_start: 'Dec 2020'
+    date_start: '2020-12-01'
     date_end: ''
         
   - title: Associate Computational Biologist
     company: Earl Bacterial Genomics Group, The Broad Institute of MIT & Harvard
     company_url: 'https://www.broadinstitute.org/infectious-disease-and-microbiome/bacterial-genomics'
     location: Cambridge, MA
-    date_start: 'Aug 2017'
-    date_end: 'Aug 2020'
+    date_start: '2017-08-01'
+    date_end: '2020-08-01'
     
    - title: Bioinformatics Specialist
     company: Functional Genomics and Data Science, Biologics R&D, Bayer CropScience
     company_url: 'https://www.bayer.com/en/crop-science/crop-science-innovations-agricultural-biologicals'
     location: West Sacramento, CA
-    date_start: 'Dec 2014'
-    date_end: 'Jul 2017'
+    date_start: '2014-12-01'
+    date_end: '2017-07-01'
     
    - title: Software Engineer / Bioinformatics Research Assistant
     company: Arkin Lab, UC Berkeley / Lawrence Berkeley National Labs
     company_url: 'http://genomics.lbl.gov/'
     location: Berkeley, CA
-    date_start: 'Nov 2014'
-    date_end: 'Apr 2016'
+    date_start: '2014-11-01'
+    date_end: '2016-04-01'
     
    - title: Undergraduate Researcher
     company: Paleogenomics Lab, UC Santa Cruz
     company_url: 'https://pgl.soe.ucsc.edu/'
     location: Santa Cruz, CA
-    date_start: 'May 2012'
-    date_end: 'Aug 2014'
+    date_start: '2012-05-01'
+    date_end: '2014-08-01'
     
 ---
